@@ -26,6 +26,10 @@ print(22//7)
 print(7/4)
 print(7//4)
 
+#Üs alma işlemi (**):
+print(2**8)
+print(2**32)
+
 
 
 #Metin örnekleri (string):
