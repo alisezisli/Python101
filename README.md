@@ -4,6 +4,7 @@
 ## Bağlantılar
 + Eğitimlere katılmak veya konuşma yapmak isterseniz: [Discord sunucusu](https://discord.com/invite/Rq6tHsu/ "Dega Discord Server")
 + "Sizin olayınız nedir?" diyorsanız: [GNU Admin](https://gnuadm.in "GNU Admin")
++ Python öğrenmek için güzel bir kaynak: [Python-İstihza](https://python-istihza.yazbel.com "Python İstihza")
 
 ## Başlamadan Önce
 Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundurmalısınız:
